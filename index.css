@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+}
+#biggest{
+
+    /* border: 2px solid tomato; */
+    margin: 0%;
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: 1400px;
+    background-image: url(wooden.jpg);
+
+
+}
+h1{
+    margin: 0%;
+}
+#small{
+    /* border: 2px solid blue; */
+    width: 1050px;
+    height: 300px;
+    box-sizing: border-box;
+    position: relative;
+    left: 150px;
+    /* margin-top: 70px; */
+    top: 50px;
+    padding: 15px;
+    background-color: whitesmoke;
+}
+body{
+    margin: 0%;
+}
+#friends{
+    height: 200px;
+    width: 327px;
+    position: relative;
+    left: 670px;
+    top: 30px;
+}
+#a{
+    box-sizing: border-box;
+    width: 580px;
+    height: 200px;
+    position: relative;
+    top: -190px;
+    left: 25px;
+    /* border: 2px solid red; */
+    padding: 15px;
+}
